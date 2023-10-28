@@ -1,0 +1,15 @@
+{
+  "name": "retroalimentacaoverticais",
+  "version": "0.0.1",
+  "description": "Projeto Retroalimentação - Visualização das amostrar por verticais",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Diego Froehlich Leal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.0"
+  }
+}
